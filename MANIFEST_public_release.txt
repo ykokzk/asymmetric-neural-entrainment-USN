@@ -1,0 +1,28 @@
+MANIFEST_public_release.txt
+Okazaki et al., "Asymmetric neural entrainment at resonance frequencies underlies unilateral spatial neglect"
+Public release candidate - file manifest
+Generated: 2026-11-09T06:52:30Z
+Paths are relative to the release root. Hash algorithm: SHA-256.
+
+RELATIVE PATH                                       SIZE(BYTES)  SHA-256
+-------------------------------------------------- ------------  ----------------------------------------------------------------
+.gitattributes                                              106  34d7c8f637bfdd09bb10c6a907870a0b51f4b836b9c3e60b6ad9077cadac86fd
+CITATION.cff                                               2780  c2bbbb21c36b84ec18e270ccf501fcfffd771fc8149e6cdd2ed8a4bb7cc2d1cd
+LICENSE                                                   17984  edaef632cbb643e4e7a221717a6c441a4c1a7c918e6e4d56debc3d8739b233f6
+model/run_kuramoto_model.m                                 6951  274f66ccdcaeb09e57345d0863779edb2f64d91971e9abc42a28b463309829b6
+README.md                                                  7582  49a21f3c23d598d73f3b2a7988bd40e1221789311cfba1802f5b45f45d9dad46
+source_data/Figure2_source_data.xlsx                      42159  dc6b298e25344b73c62a3588ea3be2abda37bc8c27a43ca6b5182e93d9a74800
+source_data/Figure3_source_data.xlsx                      21265  fc3aa39bddfb9b31dca6a279de0062c9f833051c8153087fb3ff8dc950fdf572
+source_data/Figure4_source_data.xlsx                      21778  e43f7efc78e841af1f39b3995b6cd0fbe786f790b9fa9a52ecb3a28bde3b1cb1
+source_data/Figure5_source_data.xlsx                       8181  ff0065c347a07b69247914ff9e29349900880470a35d94b1d095778873e86b6c
+source_data/Figure6_source_data.xlsx                     512802  c375a64d80cf832a7ed16c7d6dcaf621e9144bc678f942e5c4aa4c8d658cf248
+source_data/Figure7_source_data.xlsx                      10453  2813217f5c0ded4c0ce6a35a309add382288d50d9a8bb7e64810e08fb7fc2c24
+source_data/Figure8_source_data.xlsx                       6109  e04bda1ce811fe7ce5ff98dd875f56d7402da8569a2564ad3436150b46c335eb
+source_data/Figure9_source_data.xlsx                       4990  526c916e33513ae62ecbb30f6a9736dca6cb7b5cf6d3dd12d550dae9f1cb7615
+source_data/LICENSE                                       18657  9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411
+source_data/Table1_source_data.xlsx                        7725  c54ccfa2f80fbcbc132a19aa6651adf9f8503ed1e3ca3f137421f2a856ec68ab
+transfer_entropy/run_transfer_entropy_analysis.m           8353  ddf6a5758ecdf2e8e6f78ef4b44dde89950200ded86af6ea0c20003814220147
+transfer_entropy/TE.m                                      9402  c6ebeb12f7a05cf33f77ba75aa5b85c423a184ce16ad7557a7188af03ff6223e
+
+Total files: 17
+Total bytes: 707277

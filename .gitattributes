@@ -1,0 +1,2 @@
+# Preserve exact file bytes and line endings across clones for reproducible SHA-256 verification.
+* -text

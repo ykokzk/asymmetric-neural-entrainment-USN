@@ -1,0 +1,54 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite the paper listed under preferred-citation."
+title: "Source data and analysis code for: Asymmetric neural entrainment at resonance frequencies underlies unilateral spatial neglect"
+abstract: >-
+  Processed source data underlying Table 1 and main Figures 2–9, together with
+  the transfer entropy analysis code and coupled-oscillator model code for the
+  study of asymmetric neural entrainment in unilateral spatial neglect.
+type: software
+repository-code: "https://github.com/ykokzk/asymmetric-neural-entrainment-USN"
+authors:
+  - family-names: Okazaki
+    given-names: "Yuka O."
+    affiliation: "Division of Neural Dynamics, Department of System Neuroscience, National Institute for Physiological Sciences, National Institutes of Natural Sciences, Okazaki, Japan; Physiological Sciences Program, Department of Advanced Studies, Graduate Institute for Advanced Studies, Graduate University for Advanced Studies (SOKENDAI), Okazaki, Japan"
+  - family-names: Hattori
+    given-names: Noriaki
+    affiliation: "Department of Rehabilitation, University of Toyama, Toyama, Japan"
+  - family-names: Kawano
+    given-names: Teiji
+    affiliation: "Neurorehabilitation Research Institute, Morinomiya Hospital, Osaka, Japan"
+  - family-names: Hatakenaka
+    given-names: Megumi
+    affiliation: "Neurorehabilitation Research Institute, Morinomiya Hospital, Osaka, Japan"
+  - family-names: Miyai
+    given-names: Ichiro
+    affiliation: "Neurorehabilitation Research Institute, Morinomiya Hospital, Osaka, Japan"
+  - family-names: Kitajo
+    given-names: Keiichi
+    affiliation: "Division of Neural Dynamics, Department of System Neuroscience, National Institute for Physiological Sciences, National Institutes of Natural Sciences, Okazaki, Japan; Physiological Sciences Program, Department of Advanced Studies, Graduate Institute for Advanced Studies, Graduate University for Advanced Studies (SOKENDAI), Okazaki, Japan; RIKEN CBS-TOYOTA Collaboration Center, RIKEN Center for Brain Science, Wako, Japan"
+keywords:
+  - "alpha oscillations"
+  - "hemispheric imbalance"
+  - "steady-state visual evoked potentials"
+  - "unilateral spatial neglect"
+  - "transfer entropy"
+  - "Kuramoto model"
+  - EEG
+preferred-citation:
+  type: article
+  title: "Asymmetric neural entrainment at resonance frequencies underlies unilateral spatial neglect"
+  authors:
+    - family-names: Okazaki
+      given-names: "Yuka O."
+    - family-names: Hattori
+      given-names: Noriaki
+    - family-names: Kawano
+      given-names: Teiji
+    - family-names: Hatakenaka
+      given-names: Megumi
+    - family-names: Miyai
+      given-names: Ichiro
+    - family-names: Kitajo
+      given-names: Keiichi
+  journal: eLife
+  doi: 10.7554/eLife.107993
